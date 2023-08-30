@@ -1,4 +1,2 @@
 #!/bin/bash
-ls -la 
-id root
- 
+ls -la -n
